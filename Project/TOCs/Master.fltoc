@@ -2,6 +2,18 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Topic"
+    Title="Topic Normal Capture"
+    Link="/Content/Normal.htm" />
+  <TocEntry
+    Title="Topic Inline Styles in Flare"
+    Link="/Content/Inline Styles.htm" />
+  <TocEntry
+    Title="Topic Flare Stylesheet"
+    Link="/Content/Stylesheet.htm" />
+  <TocEntry
+    Title="Topic Image Map"
+    Link="/Content/Image Map.htm" />
+  <TocEntry
+    Title="Topic Thumbnail Popup Image Map"
     Link="/Content/ThumbnailPopupImageMap.htm" />
 </CatapultToc>
