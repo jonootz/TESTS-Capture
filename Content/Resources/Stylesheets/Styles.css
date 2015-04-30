@@ -88,3 +88,16 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+img.CaptureTest	/*Testing Capture Images*/
+{
+	border: double 2px #ff8c00;
+	border-bottom-color: #1e90ff;
+	border-left-color: #8a2be2;
+	border-right-color: #ffff00;
+	margin-left: 10px;
+	padding: 10px;
+	padding-bottom: 20px;
+	padding-right: 15px;
+	padding-left: 5px;
+}
+
