@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   ConditionTagExpression=""
-  MasterStylesheet="/Content/Resources/Stylesheets/test~1234567890-=!@$^&amp;()_+[ジи]{}test.css"
+  MasterStylesheet="/Content/Resources/Stylesheets/test1234567890-=!^&amp;()[ジи]{}test.css"
   Medium="Custom123">
   <PrintedOutput
     CollapseMargins="true"
