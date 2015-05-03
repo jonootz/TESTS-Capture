@@ -109,3 +109,18 @@ img.CaptureTest	/*Testing Capture Images*/
 	}
 }
 
+span.blue
+{
+	background-color: #0000ff;
+}
+
+span.red
+{
+	background-color: #ff0000;
+}
+
+span.green
+{
+	background-color: #32cd32;
+}
+
