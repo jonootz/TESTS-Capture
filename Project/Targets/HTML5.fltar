@@ -5,7 +5,7 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  ConditionTagExpression="">
+  ConditionTagExpression="include[Default.Blue1 or Default.Green1 and not ( Default.Red1 )]">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

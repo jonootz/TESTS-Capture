@@ -2,6 +2,9 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="Conditions"
+    Link="/Content/Conditions.htm" />
+  <TocEntry
     Title="Topic Normal Capture"
     Link="/Content/Normal.htm" />
   <TocEntry
